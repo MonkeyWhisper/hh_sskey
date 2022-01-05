@@ -1,3 +1,7 @@
+# Edited by MonkeyWhisper
+
+Added new export for QBCore & converted to oxmysql.
+
 # Secret Vehicle Storage Key for QBCore
 hh_sskey
 
