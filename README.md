@@ -2,6 +2,11 @@
 
 Added new export for QBCore & converted to oxmysql.
 
+Add to shared.lua 
+
+	["stashkey"] 			 			 = {["name"] = "stashkey", 						["label"] = "Stash Key", 						["weight"] = 10000, 		["type"] = "item", 		["image"] = "labkey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Key for a private car stash."},
+
+
 # Secret Vehicle Storage Key for QBCore
 hh_sskey
 
